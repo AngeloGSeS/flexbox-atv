@@ -158,11 +158,82 @@
   display: flex;
   justify-content: center;
   align-items: flex-end;
-  gap: 10px;
   padding: 40px 0;
 }
 
 .bloco {
+  width: 100px;
+  background-color: #888;
+  color: #000;
+  text-align: center;
+  font-size: 0.9rem;
+  font-weight: bold;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.bloco1 {
+  width: 100px;
+  background-color: #888;
+  color: #000;
+  text-align: center;
+  font-size: 0.9rem;
+  font-weight: bold;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.bloco2 {
+  width: 100px;
+  background-color: #888;
+  color: #000;
+  text-align: center;
+  font-size: 0.9rem;
+  font-weight: bold;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.bloco3 {
+  width: 100px;
+  background-color: #888;
+  color: #000;
+  text-align: center;
+  font-size: 0.9rem;
+  font-weight: bold;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.bloco4 {
+  width: 100px;
+  background-color: #888;
+  color: #000;
+  text-align: center;
+  font-size: 0.9rem;
+  font-weight: bold;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.bloco5 {
+  width: 100px;
+  background-color: #888;
+  color: #000;
+  text-align: center;
+  font-size: 0.9rem;
+  font-weight: bold;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.bloco6 {
   width: 100px;
   background-color: #888;
   color: #000;
